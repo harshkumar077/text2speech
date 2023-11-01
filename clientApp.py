@@ -27,5 +27,3 @@ def predictRoute():
 if __name__ == "__main__":
     #app.run(host='0.0.0.0', port=port)
     app.run(host='127.0.0.1', port=5000, debug=True)
-
-#My name is John Paul Jones. I live in New York, United States. I love to play baseball.
